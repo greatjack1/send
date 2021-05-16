@@ -197,12 +197,12 @@ const conf = convict({
   },
   footer_dmca_url: {
     format: String,
-    default: '',
+    default: 'mailto:abuse@flyle.app',
     env: 'SEND_FOOTER_DMCA_URL'
   },
   footer_source_url: {
     format: String,
-    default: 'https://github.com/timvisee/send',
+    default: 'https://github.com/greatjack1/send',
     env: 'SEND_FOOTER_SOURCE_URL'
   }
 });
