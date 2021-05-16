@@ -43,8 +43,8 @@ passwordSetError = Pasahitz hau ezin da ezarri
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = Flyle
+-send-short-brand = Flyle
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Partekatu fitxategiak modu sinple eta pribatuan

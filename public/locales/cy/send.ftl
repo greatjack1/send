@@ -51,8 +51,8 @@ passwordSetError = Nid oedd modd gosod y cyfrinair hwn
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Anfon
+-send-brand = Flyle
+-send-short-brand = Flyle
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Rhannu ffeiliau syml a phreifat

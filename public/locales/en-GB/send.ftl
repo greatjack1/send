@@ -48,8 +48,8 @@ passwordSetError = This password could not be set
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = Flyle
+-send-short-brand = Flyle
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Simple, private file sharing

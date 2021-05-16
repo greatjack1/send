@@ -1,4 +1,4 @@
-title = Send
+title = Flyle
 siteSubtitle = web eksperiment
 uploadPageHeader = Privatno, šifrovano dijeljenje datoteka
 uploadPageExplainer = Pošaljite datoteke putem sigurne, privatne i šifrovane veze koja automatski ističe kako bi se osiguralo da vaše stvari ne ostaju na mreži zauvijek.

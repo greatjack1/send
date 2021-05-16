@@ -1,4 +1,4 @@
-title = Send
+title = Flyle
 importingFile = Importing…
 encryptingFile = Encrypting…
 decryptingFile = Decrypting…
@@ -16,7 +16,7 @@ unlockButtonLabel = Unlock
 downloadButtonLabel = Download
 downloadFinish = Download complete
 fileSizeProgress = ({ $partialSize } of { $totalSize })
-sendYourFilesLink = Try Send
+sendYourFilesLink = Try Flyle
 errorPageHeader = Something went wrong!
 fileTooBig = That file is too big to upload. It should be less than { $size }
 linkExpiredAlt = Link expired
@@ -26,14 +26,14 @@ notSupportedOutdatedDetail = Unfortunately this version of Firefox does not supp
 updateFirefox = Update Firefox
 deletePopupCancel = Cancel
 deleteButtonHover = Delete
-footerText = Not affiliated with Mozilla or Firefox.
+footerText = Flyle is a project of WYRE Corp.
 footerLinkDonate = Donate
 footerLinkCli = CLI
 footerLinkDmca = DMCA
 footerLinkSource = Source
 passwordTryAgain = Incorrect password. Try again.
-javascriptRequired = Send requires JavaScript
-whyJavascript = Why does Send require JavaScript?
+javascriptRequired = Flyle requires JavaScript
+whyJavascript = Why does Flyle require JavaScript?
 enableJavascript = Please enable JavaScript and try again.
 # A short representation of a countdown timer containing the number of hours and minutes remaining as digits, example "13h 47m"
 expiresHoursMinutes = { $hours }h { $minutes }m
@@ -46,8 +46,8 @@ passwordSetError = This password could not be set
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = Flyle
+-send-short-brand = Flyle
 -firefox = Firefox
 -mozilla = Mozilla
 

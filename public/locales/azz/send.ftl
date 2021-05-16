@@ -41,8 +41,8 @@ passwordSetError = Nejin ichtakatajtol amo uel kiixtaliani
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Xiktitani
+-send-brand = Flyle
+-send-short-brand = Flyle
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Amo ouij uan ichtaka xikinpanoltili oksekin motajkuiloluan archivos

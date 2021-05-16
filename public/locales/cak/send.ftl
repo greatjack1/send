@@ -43,8 +43,8 @@ passwordSetError = Man tikirel ta ninuk' re ewan tzij re'
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Titaq
+-send-brand = Flyle
+-send-short-brand = Flyle
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Kijunamaxik relik chuqa' ichinan yakb'äl

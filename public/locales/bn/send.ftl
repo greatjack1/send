@@ -1,4 +1,4 @@
-title = Send
+title = Flyle
 importingFile = ইম্পোর্ট হচ্ছে...
 encryptingFile = ইনক্রিপট হচ্ছে...
 decryptingFile = ডিক্রিপট হচ্ছে...
@@ -43,8 +43,8 @@ passwordSetError = এই পাসওয়ার্ড সেট করা য
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = প্রেরণ
+-send-brand = Flyle
+-send-short-brand = Flyle
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = সহজ, ব্যক্তিগত ফাইল শেয়ার

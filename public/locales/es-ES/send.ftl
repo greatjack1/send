@@ -43,8 +43,8 @@ passwordSetError = No se ha podido establecer la contraseña
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Enviar
+-send-brand = Flyle
+-send-short-brand = Flyle
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Compartir archivos de forma sencilla y privada

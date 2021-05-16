@@ -1,4 +1,4 @@
-title = Send
+title = Flyle
 importingFile = Oc'h enporzhiañ …
 encryptingFile = Oc'h enrinegañ..
 decryptingFile = Oc'h ezrinegañ...
@@ -49,8 +49,8 @@ passwordSetError = N'haller ket despizañ ar ger-tremen
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = Flyle
+-send-short-brand = Flyle
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Rannañ restroù en un doare eeun ha prevez

@@ -47,23 +47,23 @@ passwordSetError = Toto heslo nemohlo být nastaveno
 
 -send-brand =
     { $case ->
-       *[nom] Send
-        [gen] Send
-        [dat] Send
-        [acc] Send
-        [voc] Send
-        [loc] Send
-        [ins] Send
+       *[nom] Flyle
+        [gen] Flyle
+        [dat] Flyle
+        [acc] Flyle
+        [voc] Flyle
+        [loc] Flyle
+        [ins] Flyle
     }
 -send-short-brand =
     { $case ->
-       *[nom] Send
-        [gen] Sendu
-        [dat] Sendu
-        [acc] Send
-        [voc] Sende
-        [loc] Sendu
-        [ins] Sendem
+       *[nom] Flyle
+        [gen] Flyle
+        [dat] Flyle
+        [acc] Flyle
+        [voc] Flyle
+        [loc] Flyle
+        [ins] Flyle
     }
 -firefox =
     { $case ->
