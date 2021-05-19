@@ -30,35 +30,6 @@ module.exports = function(app) {
     req.cspNonce = crypto.randomBytes(16).toString('hex');
     next();
   });
-  if (!IS_DEV) {
-    let csp = {
-      directives: {
-        defaultSrc: ["'self'"],
-        connectSrc: [
-          "'self'",
-          function(req) {
-            const baseUrl = config.deriveBaseUrl(req);
-            const r = baseUrl.replace(/^http(s?):\/\//, 'ws$1://');
-            console.log([baseUrl, r]);
-            return r;
-          }
-        ],
-        imgSrc: ["'self'", 'data:'],
-        scriptSrc: [
-          "'self'",
-          function(req) {
-            return `'nonce-${req.cspNonce}'`;
-          }
-        ],
-        formAction: ["'none'"],
-        frameAncestors: ["'none'"],
-        objectSrc: ["'none'"],
-        reportUri: '/__cspreport__'
-      }
-    };
-
-    app.use(helmet.contentSecurityPolicy(csp));
-  }
 
   app.use(function(req, res, next) {
     res.set('Pragma', 'no-cache');
