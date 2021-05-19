@@ -62,6 +62,25 @@ module.exports = function(state, body = '') {
           href="${assets.get('safari-pinned-tab.svg')}"
           color="#838383"
         />
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-2F1XDDC0Z0"
+        ></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag() {
+            dataLayer.push(arguments);
+          }
+          gtag('js', new Date());
+
+          gtag('config', 'G-2F1XDDC0Z0');
+        </script>
+        <script
+          data-ad-client="ca-pub-6480964650878854"
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+        ></script>
         <script defer src="${assets.get('app.js')}"></script>
       </head>
       <noscript>

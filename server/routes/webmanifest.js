@@ -2,8 +2,8 @@ const assets = require('../../common/assets');
 
 module.exports = function(req, res) {
   const manifest = {
-    name: 'Send',
-    short_name: 'Send',
+    name: 'Flyle',
+    short_name: 'Flyle',
     lang: req.language,
     icons: [
       {
