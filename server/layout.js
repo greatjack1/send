@@ -15,8 +15,8 @@ module.exports = function(state, body = '') {
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-        <meta property="og:title" content="${state.title}" />
-        <meta name="twitter:title" content="${state.title}" />
+        <meta property="og:title" content="Flyle" />
+        <meta name="twitter:title" content="Flyle" />
         <meta name="description" content="${state.description}" />
         <meta property="og:description" content="${state.description}" />
         <meta name="twitter:description" content="${state.description}" />
