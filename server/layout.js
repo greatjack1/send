@@ -7,7 +7,7 @@ module.exports = function(state, body = '') {
     <!DOCTYPE html>
     <html lang="${state.locale}">
       <head>
-        <title>${state.title}</title>
+        <title>Flyle</title>
         <base href="/" />
         <meta name="robots" content="${state.robots},noarchive" />
         <meta name="google" content="nositelinkssearchbox" />
